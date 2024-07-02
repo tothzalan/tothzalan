@@ -1,1 +1,3 @@
-i don't like profile banners...
+```math
+\ce{$&#x5C;unicode[]{}$}
+```
